@@ -1,14 +1,14 @@
 # **BEE BETTER**  
-![ll](https://trello.com/1/cards/646743a5c788a9f7c9ffcfb0/attachments/6626b6234a53407ac977db11/previews/6626b6244a53407ac977dc58/download/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0_%D0%BF%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5.png)
+![ll]()
 # **Общее описание**  
 Приложение предназначено для
 # **Возможности**  
 В приложении только один пользователь. Оно предоставляет ему возможность 
 # **Использованные средства**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
-  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)    
 SceneBuilder - приложение для упрощения создания графического макета и работы с ним.  
 # **Тест кейсы**    
 Продемонстрированы [здесь](https://github.com/7x7x49/TRedactor/wiki/%E2%84%9603-%D0%A2%D0%B5%D1%81%D1%82%E2%80%90%D0%9A%D0%B5%D0%B9%D1%81%D1%8B-%D0%B8-%D0%A3%D0%93%D0%9F)  
