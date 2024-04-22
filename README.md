@@ -22,6 +22,5 @@
 # **Разработчик**  
 Ответственнный Исполнитель - [Парфёнова Татьяна, пользователь github](https://github.com/7x7x49)   
 ![Top Langs](https://avatanplus.com/files/resources/original/59baa864a696815e8121c94a.png)     
-  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7x7x49)    
 _Используемые языки в профиле_    
