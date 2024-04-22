@@ -1,23 +1,27 @@
 # **BEE BETTER**  
 ![ll]()
 # **Общее описание**  
-Приложение предназначено для
+Приложение предназначено для людей, нацеленных на поддержание веса, отказ от вредных привычек и принятие полезных.  
 # **Возможности**  
-В приложении только один пользователь. Оно предоставляет ему возможность 
+В приложении только один пользователь. Оно предоставляет ему возможность:  
+- регистрация с подтверждением почты;  
+- авторизация;  
+- просмотр профиля и его редактирование;  
+- смена пароля;  
+- просмотр списка продуктов, активности и воды;  
+- расчет нормы пользователя;  
+- просмотр данных за день и за все дни;  
+- добавление привычки и возможность её отметки на календаре;  
+- просмотр рекомендации;  
+- определение промежутка сна.  
 # **Использованные средства**  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)    
-SceneBuilder - приложение для упрощения создания графического макета и работы с ним.  
-# **Тест кейсы**    
-Продемонстрированы [здесь](https://github.com/7x7x49/TRedactor/wiki/%E2%84%9603-%D0%A2%D0%B5%D1%81%D1%82%E2%80%90%D0%9A%D0%B5%D0%B9%D1%81%D1%8B-%D0%B8-%D0%A3%D0%93%D0%9F)  
-# **Установка приложения**  
-Установка приложения описана в Wiki данного проекта в [руководстве пользователя](https://github.com/7x7x49/TRedactor/wiki/%E2%84%9606-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F). Проект запускается из-под программы IntelliJ IDEA.  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) - система управления базами данных (СУБД), разработанная корпорацией Microsoft;  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) - стандартный язык запросов для работы с реляционными базами данных. Прост в использовании, обладает мощными возможностями для работы с данными, поддерживает транзакции и управление данными, а также широко распространен и имеет большое сообщество поддержки;  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) - интегрированная среда разработки (IDE) от компании Microsoft, предназначенная для разработки программного обеспечения;  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) - объектно-ориентированный язык программирования, разработанный компанией Microsoft как часть платформы .NET Framework. Язык C# сочетает в себе высокую производительность и безопасность типов, делая его идеальным выбором для разработки широкого спектра приложений, включая настольные, веб- и мобильные приложения.     
 # **Разработчик**  
-Ответственнный Исполнитель - [Парфёнова Татьяна, пользователь github](https://github.com/7x7x49)  
-# **Использованные источники**  
-[Java FX и SceneBuilder](https://habr.com/ru/post/474292/).
-![Top Langs](https://avatanplus.com/files/resources/original/59baa864a696815e8121c94a.png)  
+Ответственнный Исполнитель - [Парфёнова Татьяна, пользователь github](https://github.com/7x7x49)   
+![Top Langs](https://avatanplus.com/files/resources/original/59baa864a696815e8121c94a.png)   
+_Достижения_   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7x7x49&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7x7x49)
