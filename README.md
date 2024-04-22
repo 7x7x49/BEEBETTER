@@ -1,4 +1,4 @@
-# **BEE BETTER**  
+# ***BEE BETTER***   
 ![ll]()
 # **Общее описание**  
 Приложение предназначено для людей, нацеленных на поддержание веса, отказ от вредных привычек и принятие полезных.  
@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) - объектно-ориентированный язык программирования, разработанный компанией Microsoft как часть платформы .NET Framework. Язык C# сочетает в себе высокую производительность и безопасность типов, делая его идеальным выбором для разработки широкого спектра приложений, включая настольные, веб- и мобильные приложения.     
 # **Разработчик**  
 Ответственнный Исполнитель - [Парфёнова Татьяна, пользователь github](https://github.com/7x7x49)   
-![Top Langs](https://avatanplus.com/files/resources/original/59baa864a696815e8121c94a.png)   
+![Top Langs](https://avatanplus.com/files/resources/original/59baa864a696815e8121c94a.png)     
 _Достижения_   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7x7x49&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7x7x49&layout=compact)   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7x7x49)
